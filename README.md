@@ -35,5 +35,3 @@ This gave me the final equation:
 $$
 f\left(x\right)=\left(\frac{\left(\frac{6}{5}d\right)}{a-\frac{3}{20}}\right)\left(-\left(\sqrt[10]{6}\right)^{t}+6\right)
 $$
-
-## The Code
